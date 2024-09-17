@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.1d2f1349.css",
+    "main.js": "/react_project/static/js/main.0809dd87.js",
+    "static/media/safina moideen.jpg": "/react_project/static/media/safina moideen.c1d0925852fa88b1ecca.jpg",
+    "index.html": "/react_project/index.html",
+    "main.1d2f1349.css.map": "/react_project/static/css/main.1d2f1349.css.map",
+    "main.0809dd87.js.map": "/react_project/static/js/main.0809dd87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d2f1349.css",
+    "static/js/main.0809dd87.js"
+  ]
+}
